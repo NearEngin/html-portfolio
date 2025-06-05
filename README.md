@@ -1,6 +1,6 @@
 <a href="https://nearengin.github.io/html-portfolio/">
-  <h1 align="center">
-    <picture>
+  <h1 align="center"> 
+    <picture> height="200"
       <source media="(prefers-color-scheme: dark)" srcset="https://logodix.com/logo/627047.jpg">
       <img alt="Flutter" src="https://logodix.com/logo/627047.jpg">
     </picture>
@@ -23,5 +23,5 @@ I built this website to:
 *Showcase my journey
 *Start building a digital presence
 
-Live Site: your-portfolio-link.com
+Live Site: <a>
 Feel free to give suggestions or ideas!

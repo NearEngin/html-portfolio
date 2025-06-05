@@ -2,7 +2,7 @@
   <h1 align="center"> 
     <picture> height="200"
       <source media="(prefers-color-scheme: dark)" srcset="https://logodix.com/logo/627047.jpg">
-      <img alt="Flutter" src="https://logodix.com/logo/627047.jpg">
+      <img alt="Logo" src="https://logodix.com/logo/627047.jpg">
     </picture>
   </h1>
 </a>
